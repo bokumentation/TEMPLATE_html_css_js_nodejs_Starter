@@ -16,10 +16,10 @@ Bahan:
 ## Langsung Mulai
 1. Clone repositori dan navigasi.
   ```bash
-  git clone https://github.com/bokumentation/basic_html_css_js_nodejs.git
+  git clone https://github.com/bokumentation/TEMPLATE_html_css_js_nodejs_Starter.git
   ```
   ```bash
-  cd basic_html_css_js_nodejs
+  cd TEMPLATE_html_css_js_nodejs_Starter
   ```
 2. Jalankan server: jalankan `node index.js` di terminal.
   ```bash
